@@ -1,0 +1,11 @@
+{
+  "name": "vision",
+  "description": "my first app - a little meme generator",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.3.5",
+    "imagemagick": "0.1.3",
+    "formidable": "1.0.14"
+  }
+}

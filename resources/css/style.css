@@ -1,0 +1,30 @@
+body {
+  font-family:"Trebuchet MS",sans-serif;
+  font-size:12px;
+}
+
+h1 {
+  width:720px;
+  background:none repeat scroll 0% 0% rgb(88, 171, 39);
+  color:rgb(255, 255, 255);
+  padding:8px;
+  border-radius:10px;
+  font-size:200%;
+  line-height:1em;
+  margin:15px 0px;
+}
+
+p {
+  margin:10px;
+  font-size:115%;
+  line-height: 1.7em;
+}
+
+img {
+  float:left;
+  margin:10px;
+}
+
+.app {
+  width:720px;
+}
